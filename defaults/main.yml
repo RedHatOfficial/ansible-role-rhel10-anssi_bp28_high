@@ -290,6 +290,7 @@ package_dnf_automatic_installed: true
 package_kea_removed: true
 package_logrotate_installed: true
 package_rsyslog_gnutls_installed: true
+package_sequoia_sq_installed: true
 package_setroubleshoot_plugins_removed: true
 package_setroubleshoot_removed: true
 package_setroubleshoot_server_removed: true
